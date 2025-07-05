@@ -24,12 +24,12 @@ A strategic browser-based clicker game inspired by the Civilization series. Buil
 
 ## Project Structure
 
-Game/
-├── index.html
-├── script.js
-├── styles/
-│   └── style.css
-├── README.md
+    Game/
+    ├── index.html
+    ├── script.js
+    ├── styles/
+    │   └── style.css
+    ├── README.md
 
 ## Tech Stack
 
@@ -41,9 +41,9 @@ JavaScript
 
 ## Roadmap
 
-Passive production from buildings 
+Passive production from buildings ✔️
 
-District system (Science, Culture, Religion) ✔️
+District system (Science, Culture, Religion) 
 
 Unique buildings and development tree
 
@@ -53,6 +53,6 @@ Visual city map layout
 
 AI opponent or PvP support
 
-
+## Info
 Project created by Hubert Jucha as an experimental game to learn and build a strategy-clicker mechanic inspired by Civ 6.
 
